@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jaidevxr/DSA-Cpp/tree/master/0141-linked-list-cycle) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 ## Linked List
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
 | ------- |
