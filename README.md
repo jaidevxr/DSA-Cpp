@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevxr/DSA-Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jaidevxr/DSA-Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevxr/DSA-Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jaidevxr/DSA-Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
 ## Sorting
