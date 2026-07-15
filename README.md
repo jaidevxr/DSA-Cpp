@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
 | ------- |
