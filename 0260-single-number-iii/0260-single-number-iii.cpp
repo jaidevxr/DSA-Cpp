@@ -1,13 +1,13 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xr = 0;
+        unsigned int xr = 0;
 
         for (int num : nums) {
-            xr ^= num;
+            xr ^= (unsigned int)num;
         }
 
-        unsigned int bit = (unsigned int)xr & (-(unsigned int)xr);
+        unsigned int bit = xr & (-xr);
 
         int a = 0, b = 0;
 
