@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0136-single-number) |
