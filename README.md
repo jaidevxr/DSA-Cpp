@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 ## Array
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jaidevxr/DSA-Cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
