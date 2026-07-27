@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jaidevxr/DSA-Cpp/tree/master/0141-linked-list-cycle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/jaidevxr/DSA-Cpp/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0234-palindrome-linked-list) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jaidevxr/DSA-Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jaidevxr/DSA-Cpp/tree/master/0051-n-queens) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
