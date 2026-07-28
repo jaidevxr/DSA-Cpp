@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
+| [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jaidevxr/DSA-Cpp/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
 ## Simulation
