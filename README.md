@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 ## Design
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
