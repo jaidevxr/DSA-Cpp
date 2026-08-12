@@ -2,11 +2,10 @@ class Solution {
 public:
     ListNode* removeZeroSumSublists(ListNode* head) {
 
-        // Dummy node
+
         ListNode* front = new ListNode(0, head);
 
-        // Map: prefixSum -> last node with this prefixSum
-        unordered_map<int, ListNode*> prefixSumToNode;
+        unordered_map<int, ListNode*> prefix;
 
         int prefixSum = 0;
 
@@ -15,8 +14,7 @@ public:
         while (current != nullptr) {
             prefixSum += current->val;
 
-            // Keep the LAST occurrence
-            prefixSumToNode[prefixSum] = current;
+            prefix[prefixSum] = current;
 
             current = current->next;
         }
@@ -25,10 +23,8 @@ public:
         current = front;
 
         while (current != nullptr) {
-            prefixSum += current->val;
-
-            // Skip the zero-sum sequence
-            current->next = prefixSumToNode[prefixSum]->next;
+            prefixSum+=current->val;
+            current->next = prefix[prefixSum]->next;
 
             current = current->next;
         }
