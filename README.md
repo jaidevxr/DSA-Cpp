@@ -259,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaidevxr/DSA-Cpp/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/jaidevxr/DSA-Cpp/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jaidevxr/DSA-Cpp/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/jaidevxr/DSA-Cpp/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
