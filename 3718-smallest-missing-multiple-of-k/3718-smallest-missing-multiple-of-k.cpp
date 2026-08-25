@@ -1,24 +1,19 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        int n=nums.size();
+        int n = nums.size();
+
         unordered_set<int> mpp;
-        for(int i=0;i<n;i++){
-            mpp.insert(nums[i]);
+        for (int x : nums) {
+            mpp.insert(x);
         }
-        for(int i=1;i<=n;i++){
-            if(mpp.count(i*k)){
-                continue;
-            }
-            else{
-                return i*k;
+
+        for (int i = 1; i <= n + 1; i++) {
+            if (mpp.find(i * k) == mpp.end()) {
+                return i * k;
             }
         }
-        if(n==1){
-            return nums[0]*2;
-        }
-        else{
-            return k*(n+1);
-        } 
+
+        return -1;
     }
 };
