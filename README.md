@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jaidevxr/DSA-Cpp/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
