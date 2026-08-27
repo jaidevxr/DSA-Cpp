@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/jaidevxr/DSA-Cpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
