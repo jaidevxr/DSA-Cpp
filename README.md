@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jaidevxr/DSA-Cpp/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/jaidevxr/DSA-Cpp/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0136-single-number) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
