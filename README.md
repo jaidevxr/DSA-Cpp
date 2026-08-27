@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jaidevxr/DSA-Cpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
 |  |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
