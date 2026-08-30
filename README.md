@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaidevxr/DSA-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaidevxr/DSA-Cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaidevxr/DSA-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaidevxr/DSA-Cpp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
