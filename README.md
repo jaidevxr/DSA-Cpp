@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jaidevxr/DSA-Cpp/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/jaidevxr/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jaidevxr/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/jaidevxr/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
 |  |
