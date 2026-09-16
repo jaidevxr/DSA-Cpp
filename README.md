@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaidevxr/DSA-Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/jaidevxr/DSA-Cpp/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0239-sliding-window-maximum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/jaidevxr/DSA-Cpp/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
