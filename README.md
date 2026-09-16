@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jaidevxr/DSA-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaidevxr/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaidevxr/DSA-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0509-fibonacci-number) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaidevxr/DSA-Cpp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/jaidevxr/DSA-Cpp/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaidevxr/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaidevxr/DSA-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
