@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaidevxr/DSA-Cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 ## Array
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jaidevxr/DSA-Cpp/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/jaidevxr/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaidevxr/DSA-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Number Theory
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
