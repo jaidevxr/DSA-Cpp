@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jaidevxr/DSA-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaidevxr/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaidevxr/DSA-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0260-single-number-iii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaidevxr/DSA-Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -483,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
