@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jaidevxr/DSA-Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jaidevxr/DSA-Cpp/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jaidevxr/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jaidevxr/DSA-Cpp/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jaidevxr/DSA-Cpp/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0078-subsets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaidevxr/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jaidevxr/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jaidevxr/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/jaidevxr/DSA-Cpp/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaidevxr/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaidevxr/DSA-Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/jaidevxr/DSA-Cpp/tree/master/0169-majority-element) |
 ## Tree
