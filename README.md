@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jaidevxr/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaidevxr/DSA-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/jaidevxr/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jaidevxr/DSA-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/jaidevxr/DSA-Cpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaidevxr/DSA-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jaidevxr/DSA-Cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Database
