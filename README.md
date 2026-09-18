@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jaidevxr/DSA-Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/jaidevxr/DSA-Cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jaidevxr/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jaidevxr/DSA-Cpp/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jaidevxr/DSA-Cpp/tree/master/0053-maximum-subarray) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jaidevxr/DSA-Cpp/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jaidevxr/DSA-Cpp/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/jaidevxr/DSA-Cpp/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaidevxr/DSA-Cpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaidevxr/DSA-Cpp/tree/master/0069-sqrtx) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaidevxr/DSA-Cpp/tree/master/0048-rotate-image) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaidevxr/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
