@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jaidevxr/DSA-Cpp/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jaidevxr/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jaidevxr/DSA-Cpp/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaidevxr/DSA-Cpp/tree/master/0067-add-binary) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaidevxr/DSA-Cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaidevxr/DSA-Cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaidevxr/DSA-Cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaidevxr/DSA-Cpp/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jaidevxr/DSA-Cpp/tree/master/0053-maximum-subarray) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaidevxr/DSA-Cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaidevxr/DSA-Cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
