@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jaidevxr/DSA-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jaidevxr/DSA-Cpp/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/jaidevxr/DSA-Cpp/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jaidevxr/DSA-Cpp/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
