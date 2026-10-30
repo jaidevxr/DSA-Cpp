@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jaidevxr/DSA-Cpp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/jaidevxr/DSA-Cpp/tree/master/1042-flower-planting-with-no-adjacent) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jaidevxr/DSA-Cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -676,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jaidevxr/DSA-Cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
