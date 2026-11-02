@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jaidevxr/DSA-Cpp/tree/master/0735-asteroid-collision) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jaidevxr/DSA-Cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaidevxr/DSA-Cpp/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0836-rectangle-overlap) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jaidevxr/DSA-Cpp/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaidevxr/DSA-Cpp/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaidevxr/DSA-Cpp/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/jaidevxr/DSA-Cpp/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/jaidevxr/DSA-Cpp/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/1096-brace-expansion-ii) |
