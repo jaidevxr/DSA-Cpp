@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaidevxr/DSA-Cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaidevxr/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaidevxr/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/jaidevxr/DSA-Cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaidevxr/DSA-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaidevxr/DSA-Cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaidevxr/DSA-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/jaidevxr/DSA-Cpp/tree/master/3665-twisted-mirror-path-count) |
 ## Number Theory
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jaidevxr/DSA-Cpp/tree/master/0048-rotate-image) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaidevxr/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaidevxr/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/jaidevxr/DSA-Cpp/tree/master/3665-twisted-mirror-path-count) |
 ## Quicksort
 |  |
 | ------- |
