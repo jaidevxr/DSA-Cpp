@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaidevxr/DSA-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/jaidevxr/DSA-Cpp/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaidevxr/DSA-Cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/1929-concatenation-of-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/jaidevxr/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jaidevxr/DSA-Cpp/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaidevxr/DSA-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/jaidevxr/DSA-Cpp/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jaidevxr/DSA-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jaidevxr/DSA-Cpp/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaidevxr/DSA-Cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jaidevxr/DSA-Cpp/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaidevxr/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaidevxr/DSA-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jaidevxr/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaidevxr/DSA-Cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/jaidevxr/DSA-Cpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jaidevxr/DSA-Cpp/tree/master/3904-smallest-stable-index-ii) |
